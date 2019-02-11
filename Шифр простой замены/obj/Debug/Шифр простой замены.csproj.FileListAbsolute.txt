@@ -1,0 +1,27 @@
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.exe.config
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.exe
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.pdb
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Decrypt.resources
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Form1.resources
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Properties.Resources.resources
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Statistics.resources
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.csproj.GenerateResource.Cache
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.exe
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.pdb
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.CisarKey.resources
+D:\Visual Studio\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.TxtorDoc.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.exe.config
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.exe
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.pdb
+F:\Программы\1\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.exe
+F:\Программы\1\Шифр простой замены\Шифр простой замены\bin\Debug\Шифр простой замены.pdb
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.csprojResolveAssemblyReference.cache
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.CisarKey.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Decrypt.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Form1.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Properties.Resources.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Statistics.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.TxtorDoc.resources
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр простой замены.csproj.GenerateResource.Cache
+F:\Программы\1\Шифр простой замены\Шифр простой замены\obj\Debug\Шифр_простой_замены.Info.resources

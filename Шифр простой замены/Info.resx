@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Форма 1 «Главное меню»:
+
+Кнопка «Статистика»:
+При нажатии на кнопку открывается форма управления таблицами статистики.
+
+Кнопка «Расшифровка»:
+При нажатии на кнопку открывается форма расшифровки текстов.
+
+Кнопка «Выход»:
+Закрывает приложение.
+
+
+Форма 2 «Statistics»:
+
+Кнопка «Новая таблица»:
+Кнопка используется для создания новой таблицы статистики.
+При нажатии на кнопку открывается диалоговое окно выбора файла с алфавитом. В этом окне необходимо выбрать текстовый файл, в котором записан алфавит в одну строку без пробелов. Пример: «абвгдеёжзийклмнопрстуфхцчшщъыьэюя». После этого открывается диалоговое окно сохранения файла. Здесь необходимо выбрать файл, в который запишется таблица статистики.
+
+Кнопка «Внести изменения»:
+Кнопка используется для обновления таблицы статистики в файле на основе текста, введенного в форму.
+При нажатии на кнопку открывается диалоговое окно выбора файла с таблицей статистики, в которую будут внесены изменения. После перезаписи таблицы, в форму выведется общее количество букв, с которых была собрана статистика для этой таблицы.
+
+Кнопка «Текст из файла»:
+Кнопка используется для обновления таблицы статистики в файле на основе текста из файла.
+При нажатии на кнопку открывается диалоговое окно для выбора таблицы статистики, в которую будут внесены изменения. Затем открывается диалог для выбора файла с текстом, с которого будет собираться статистика. В конце перезаписи статистики в форму для текста выведется общее количество символов, с которых собрана статистика.
+
+Кнопка «Объединить статистики»:
+Кнопка используется для объединения двух таблиц статистики в одну.
+При нажатии на кнопку открывается диалог для выбора первого файла со статистикой. Затем открывается еще один диалог для выбора второго файла со статистикой. После этого открывается диалог сохранения нового файла статистики.
+
+Кнопка «Очистить статистику»:
+Кнопка используется для обнуления таблицы статистики.
+При нажатии на кнопку открывается диалог для выбора таблицы статистики для обнуления.
+
+Кнопка «В главное меню»:
+Кнопка используется для переключения на форму главного меню.
+При нажатии на кнопку открывается форма главного меню, а данная форма скрывается.
+
+Кнопка «Выйти»:
+Закрывает приложение.
+
+Кнопка «Сменить алфавит»:
+Кнопка используется для смены используемого алфавита.
+При нажатии на кнопку открывается диалог для выбора файла с алфавитом. После смены алфавита, новый алфавит выводится на форму как метка.
+
+
+Форма 3 «Decrypt»:
+
+Кнопка «Расшифровать»:
+Кнопка используется для расшифровки текста, введенного в форму 1 (верхняя). Расшифрованный текст выводится в форму 2 (нижняя).
+При нажатии на кнопку открывается диалог для выбора файла статистики, на основе которого дешифруется текст. После этого расшифрованный текст выводится в нижнюю форму.
+
+Кнопка «Шифр Цезаря по ключу»:
+Кнопки используется для взлома текста, введенного в форму 1 (верхняя).
+Для взлома, сначала требуется расшифровать текст с помощью кнопка «Расшифровка». 
+При нажатии на кнопку появляется форма для ввода номера буквы (форма «CisarKey»), которая расшифрована правильно, нумерация начинается с 1. На основе этого номера вычисляется предполагаемый ключ и с его помощью взламывается шифротекст. Взломанный текст в итоге выводится в форму 2 (нижняя).
+
+Кнопка «Шифр Цезаря (brute)»:
+Кнопка используется для взлома текста, введенного в форму 1 (верхняя).
+При нажатии на кнопку появляется форма для выбора расширения сохраняемых файлов (форма «TextorDoc»). После этого программа на основе используемого алфавита взламывает шифротекст методом простого перебора всех вариантов (brute force), предполагая, что текст зашифрован с помощью шифра Цезаря. Программа создает папку с названием «Brute&lt;код&gt;», где &lt;код&gt;-случайное число. В этой папке сохраняются все перебранные варианты взлома в отдельных текстовых файлах. После выполнения взлома выводится сообщение с названием созданной папки.
+
+Кнопка «Индекс совпадения»:
+Кнопка используется для сравнения двух текстовых файлов на совпадение. Предполагается, что кнопка будет использоваться для проверки качества расшифровки текстов, т.е. с ее помощью сравниваются оригиналы текстов, которые позже были зашифрованы каким-либо шифром и расшифрованы этой программой, с расшифрованным текстом.
+При нажатии на кнопку открывается диалоговое окно для выбора файла с оригиналом текста. После этого открывается окно для выбора файла с расшифрованным текстом. Два файла сравниваются и в форму 2 (нижняя) выводится индекс совпадения для этих текстов.
+ВАЖНО: Тексты должны иметь одинаковое количество символов, иначе программа не будет работать, выведется соответствующее сообщение.
+
+Кнопка «Расшифровать с файла»:
+Кнопка используется для расшифровки текста, который был сохранен в текстовый файл. Целесообразно использовать этот способ расшифровки для больших текстов (больше 5 страниц).
+При нажатии на кнопку открывается диалоговое окно для выбора файла со статистикой, на основе которой будет расшифровываться текст. После этого открывается диалог для выбора файла с шифротекстом. И после этого открывается диалог для сохранения файла с расшифровкой. Расшифровка больших текстов может занимать много времени (от 30 секунд), после завершения расшифровки выводится соответствующее сообщение.
+
+Остальные кнопки на этой форме выполняют те же действия, что и на форме 2 «Statistics».
+
+Форма 4 "CisarKey":
+
+На этой форме требуется ввести номер буквы, которая, как предполагается, расшифрована верно. Буквы нумеруются от начала текста с единицы.
+
+Форма 5 "TxtorDoc":
+
+На этой форме требуется выбрать расширение сохраняемых файлов с расшифровками. При выборе варианта "Свой формат" от пользователя требуется ввести в текстовую форму любое расширение в виде ".&lt;символы&gt;". При некоректном вводе выведется либо соответствующее сообщение, либо необработанное исключение.</value>
+  </data>
+</root>
